@@ -1,3 +1,19 @@
+# Counter App
+A simple, responsive counter application built using React.js. This app allows users to increment, decrement, and reset a counter value with a modern and attractive user interface.
+
+## Key Features
+- Increment: Increase the counter value by one.
+- Decrement: Decrease the counter value by one.
+- Reset: Reset the counter to zero.
+- Responsive Design: Works seamlessly on all devices.
+- Attractive UI: Styled with modern CSS for a clean and polished look.
+## Tech Stack
+- Frontend: React.js
+- Styling: CSS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
