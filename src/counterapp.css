@@ -1,0 +1,47 @@
+.container {
+    border-radius: 15px;
+    width: 280px;
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+    margin-top: 50px;
+}
+.counter-value{
+    background: linear-gradient(to top right, #ffd230, #daff76);
+    border-radius: 15px;
+    width: 240px;
+    height: 260px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+    margin-top: 20px;
+}
+.value{
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    justify-content: center;
+}
+button{
+    font-size: 20px;
+}
+.increment-btn, .reset, .decrement-btn {
+    margin-top: 30px;
+    padding: 10px 20px ;
+    border: none;
+    border-radius: 5px;
+    background-color: #f0f3f3;
+    color: black;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    cursor: pointer;
+}
+.increment-btn:hover, .reset:hover, .decrement-btn:hover{
+    background-color: #e0e0e0;
+}
